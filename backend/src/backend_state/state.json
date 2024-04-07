@@ -1,0 +1,1 @@
+{"model_name":"resnet","default_input_path":"src/models/resnet/data_resnet/input_0.pb","default_output_pat":"src/models/resnet/data_resnet/output_0.pb"}
